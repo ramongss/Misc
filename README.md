@@ -2,5 +2,5 @@
 
 ##List:
 
-- [Monty Hall test on Python](Monty_Hall.ipynb)
+- Monty Hall test on Python ([Python](monty_hall.py)|[Jupyter Notebook](Monty_Hall.ipynb))
 
