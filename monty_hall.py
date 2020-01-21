@@ -1,5 +1,4 @@
-"""
-Code based on R code, available at:
+"""Code based on R code, available at:
 https://github.com/icaroagostino/fun/blob/master/Monty_Hall.R
 """
 import pandas as pd
@@ -55,6 +54,7 @@ plt.show()
 ################################
 # Strategy 2 - Door is changed #
 ################################
+
 victories = []    # vector of victories
 
 np.random.seed(1234)    # set random seed
