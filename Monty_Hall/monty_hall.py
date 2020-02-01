@@ -57,7 +57,7 @@ plt.show()
 
 victories = []    # vector of victories
 
-np.random.seed(1234)    # set random seed
+# np.random.seed(1234)    # set random seed
 
 for i in range(n):
     prize_door = np.random.choice(doors, 1)    # door with the prize
