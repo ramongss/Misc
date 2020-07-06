@@ -4,6 +4,8 @@
 
 - Birthday Paradox ([Python](Birthday_Paradox/birthday_paradox.py) | [Jupyter Notebook](Birthday_Paradox/Birthday_Paradox.ipynb))
 
+- Brasil.io Download ([R](Brasil_io/download_brasilio.R))
+
 - Fibonacci Sequence funtion ([Python](Fibonacci/fibonacci.py))
 
 - Monty Hall test ([Python](Monty_Hall/monty_hall.py) | [Jupyter Notebook](Monty_Hall/Monty_Hall.ipynb))
