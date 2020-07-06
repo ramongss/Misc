@@ -4,7 +4,7 @@
 
 - Birthday Paradox ([Python](Birthday_Paradox/birthday_paradox.py) | [Jupyter Notebook](Birthday_Paradox/Birthday_Paradox.ipynb))
 
-- Brasil.io Download ([R](Brasil_io/download_brasilio.R))
+- Brasil.io Downloader ([R](Brasil_io/download_brasilio.R) | Translated from [Python](https://gist.github.com/turicas/3e3621d61415e3453cd03a1997f7473f))
 
 - Fibonacci Sequence funtion ([Python](Fibonacci/fibonacci.py))
 
