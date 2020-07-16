@@ -1,23 +1,19 @@
-def fibonacci(x):
-	
-	'''
-	Fibonacci function to calculate the fibonacci sequence 
-	of a given number. 
-	'''
+def fibonacci(sequence_length):
+    ''' Fibonacci function to calculate the fibonacci sequence of a given number.'''
 
-	fib_init = [0,1]    # sequence initials
+    # sequence initials
+    fib_init = [0, 1]
 
-	for i in range(x):
-		fib_init.append(fib_init[-1] + fib_init[-2])	# summing the last 2 numbers
-	
-	return fib_init
+    for i in range(sequence_length):
+        # summing the last 2 numbers
+        fib_init.append(fib_init[-1] + fib_init[-2])
+    return fib_init
 
 
 if __name__ == "__main__":
 
-	x = 10    # length of the sequence
+    # length of the sequence
+    sequence_len = 10
+    fib_sequence = fibonacci(sequence_len)
 
-	fib_sequence = fibonacci(x)
-
-	print(f"The Fibonacci Sequence of {x} numbers is:")
-	print(fib_sequence)
+    print(f"The Fibonacci Sequence of {sequence_len} numbers is: {fib_sequence}")

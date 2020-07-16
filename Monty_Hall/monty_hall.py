@@ -49,7 +49,8 @@ plt.title('Strategy 1', fontsize=12)
 plt.ylabel('Winning Percentage', fontsize=12)
 plt.xlabel('Rounds', fontsize=12)
 plt.legend(loc='best', fontsize=12)
-plt.show()
+plt.savefig('strategy1.png', dpi=300)
+# plt.show()
 
 ################################
 # Strategy 2 - Door is changed #
@@ -100,4 +101,5 @@ plt.title('Strategy 2', fontsize=12)
 plt.ylabel('Winning Percentage', fontsize=12)
 plt.xlabel('Rounds', fontsize=12)
 plt.legend(loc='best', fontsize=12)
-plt.show()
+plt.savefig('strategy2.png', dpi=300)
+# plt.show()
