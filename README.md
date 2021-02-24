@@ -5,6 +5,7 @@
 - [Brasil.io downloader function](Brasil_io)
 - [Fibonacci Sequence function](Fibonacci)
 - [Monty Hall test](Monty_Hall)
+- [Moving Average of COVID-19 in Brazil](MM_covid)
 
 ---
 
@@ -23,6 +24,22 @@
 ---
 
 ### :door::door::door::gift: Monty Hall test ([Python](Monty_Hall/monty_hall.py) | [Jupyter Notebook](Monty_Hall/Monty_Hall.ipynb))
-Strategy 1 | Strategy 2
-:---:|:---:
-![Strategy 1](Monty_Hall/strategy1.png) | ![Strategy 2](Monty_Hall/strategy2.png)
+Strategy 1 |
+:---:|
+![Strategy 1](Monty_Hall/strategy1.png) |
+
+Strategy 2 |
+:---:|
+![Strategy 2](Monty_Hall/strategy2.png) |
+
+
+---
+
+### :chart_with_upwards_trend::mask: Moving Average of COVID-19 in Brazil ([R](MM_covid/mm_csse.R))
+Confirmed cases |
+:---: |
+![Confirmed cases](MM_covid/mm_confirmed.png) |
+
+Deaths |
+:---: |
+![Deaths](MM_covid/mm_deaths.png) |
