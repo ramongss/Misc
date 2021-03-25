@@ -1,4 +1,4 @@
-download_brasilio_table <- function(dataset, table_name){
+download_brasilio_table <- function(dataset, table_name) {
   url <- sprintf("https://data.brasil.io/dataset/%s/%s.csv.gz", dataset, table_name)
   tmp <- tempfile()
   download.file(url, tmp)
