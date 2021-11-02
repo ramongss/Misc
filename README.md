@@ -25,7 +25,6 @@
 
 ### :door::door::door::gift: Monty Hall test ([Python](Monty_Hall/monty_hall.py) \| [Jupyter Notebook](Monty_Hall/Monty_Hall.ipynb))
 
-Strategy 1 \| :---:\| ![Strategy 1](Monty_Hall/strategy1.png) \|
-
-Strategy 2 \| :---:\| ![Strategy 2](Monty_Hall/strategy2.png) \|
-
+| Strategy 1 | Strategy 2 | 
+| :---: | :---: | 
+| ![Strategy 1](Monty_Hall/strategy1.png) | ![Strategy 2](Monty_Hall/strategy2.png) |
